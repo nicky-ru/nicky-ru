@@ -13,7 +13,7 @@
 
 ## Profile
 
-Full-stack engineer with 8 years building production AI agent systems, Web3 infrastructure, and data pipelines. Digital Nomad, currently based in Ulaanbaatar 🇲🇳, worked with teams across U.S., Europe, and China.
+Full-stack engineer with 8 years building production AI agent systems, Web3 infrastructure, and data pipelines. Digital Nomad, worked with teams across U.S., Europe, and China.
 
 **Engineering approach**: TDD with reasonable coverage targets, strict linting/formatting (Biome, Husky), GitOps, cloud-native deployment. AI-assisted development via [structured subagent workflows](https://github.com/nicky-ru/agentic).
 
